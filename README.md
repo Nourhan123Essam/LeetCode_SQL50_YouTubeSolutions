@@ -63,4 +63,4 @@ The entire playlist offers a mix of **problem-solving** and **video editing** sk
 This project was a **collaborative effort**. We split the task of solving and recording the problems, each of us working on solving half of the problems and editing our respective videos. 
 ### 📍 **Contributors:**
 - [Nourhan Essam](https://github.com/Nourhan123Essam)
-- [Abdullah Ahmed](https://github.com/peerusername)
+- [Abdullah Ahmed](https://github.com/abdullahsherdy)
