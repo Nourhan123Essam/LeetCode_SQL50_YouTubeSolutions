@@ -50,7 +50,7 @@ The entire playlist offers a mix of **problem-solving** and **video editing** sk
 
 ---
 
-## 🧑‍💻 **Technologies Used**
+## **Technologies Used**
 
 - **SQL Server** for solving SQL queries and running complex queries.
 - **LeetCode** for the problem set and structured challenge.
@@ -58,7 +58,7 @@ The entire playlist offers a mix of **problem-solving** and **video editing** sk
 
 ---
 
-## 👨‍🤝‍👩 **Collaboration**
+## **Collaboration**
 
 This project was a **collaborative effort**. We split the task of solving and recording the problems, each of us working on solving half of the problems and editing our respective videos. 
 ### 📍 **Contributors:**
